@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## 📂 Repository Contents
 
 This repository contains two Jupyter notebooks related to the coding component of the course.
@@ -13,7 +12,6 @@ This repository contains two Jupyter notebooks related to the coding component o
 
 - Contains self-designed simulations created based on the questions provided earlier.
 
-=======
 ## 📂 Repository Contents
 
 This repository contains two Jupyter notebooks related to the coding component of the course.
@@ -28,4 +26,3 @@ This repository contains two Jupyter notebooks related to the coding component o
 
 - Contains self-designed simulations created based on the questions provided earlier.
 
->>>>>>> 53c18da388aa5f081175f52543ffc4c05cc484ac
