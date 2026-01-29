@@ -1,4 +1,4 @@
-## 📂 Repository Contents
+##  Repository Contents
 
 This repository contains two Jupyter notebooks related to the coding component of the course.
 
@@ -12,7 +12,7 @@ This repository contains two Jupyter notebooks related to the coding component o
 
 - Contains self-designed simulations created based on the questions provided earlier.
 
-## 📂 Repository Contents
+##  Repository Contents
 
 This repository contains two Jupyter notebooks related to the coding component of the course.
 
